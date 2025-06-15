@@ -30,6 +30,24 @@ Repositório dedicado: [formacao-java-developer](https://github.com/camilistaros
 
 ---
 
+### 🧪 Formação Técnica em Informática - IFSC
+
+Formada pelo Instituto Federal de Santa Catarina (IFSC), com foco em desenvolvimento e fundamentos da computação.
+
+🔹 **Java - Práticas e Desenvolvimento de Sistemas**  
+Repositório: [pds2-ifsc](https://github.com/camilistarosky/pds2-ifsc)
+
+🔹 **Desenvolvimento Web (HTML, CSS, JS, PHP) - Programação para Internet**  
+Repositório: [ppi-ifsc](https://github.com/camilistarosky/ppi-ifsc)
+
+🔹 **Desenvolvimento Mobile (Android com Java) - Programação para Dispositivos Móveis**  
+Repositório: [pdm-ifsc](https://github.com/camilistarosky/pdm-ifsc)
+
+🔹 **Projeto Final IMPECC** – Aplicação desenvolvida em Java como conclusão do curso técnico  
+Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
+
+---
+
 ### 📊 Estatísticas
 
 <div align="center">
