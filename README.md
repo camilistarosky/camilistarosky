@@ -1,16 +1,40 @@
-## Hi there 👋
+### Oi! Eu sou a Camili 👋
 
-<!--
-**camilistarosky/camilistarosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Ciência da Computação**, apaixonada por tecnologia, aprendizado constante e organização.  
+🎓 Também curso **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
+☕ Atualmente, estou aprofundando meus conhecimentos em **Java**, desde a lógica de programação e fundamentos de desenvolvimento backend até projetos práticos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+
+#### Linguagens & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Ferramentas & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=tokyonight&count_private=true&hide=prs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Onde me encontrar:
+
+- ✉️ E-mail: camili.starosky@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/camilistarosky/)
+- 📁 Veja meus repositórios de estudos em lógica de programação, Java e Ciência da Computação aqui no perfil!
+
+---
+
+✨ _"Nunca pare de aprender. Cada linha de código é uma chance de evolução."_  
