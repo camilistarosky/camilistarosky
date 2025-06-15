@@ -26,7 +26,7 @@
 
 🎯 **Formação Java Developer - DIO**  
 Estudando Java moderno, orientação a objetos, estrutura de dados e projetos práticos.  
-Repositório dedicado: [formacao-java](https://github.com/camilistarosky/formacao-java-developer)
+Repositório dedicado: [formacao-java-developer](https://github.com/camilistarosky/formacao-java-developer)
 
 ---
 
