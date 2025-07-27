@@ -1,7 +1,7 @@
 ### Hello World! Eu sou a Camili 👋
 
-💻 Estudante de **Ciência da Computação**, apaixonada por tecnologia, aprendizado constante e organização.  
-🎓 Também curso **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
+💻 Estudante apaixonada por tecnologia, aprendizado constante e organização.  
+🎓 Curso **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
 ☕ Atualmente, estou aprofundando meus conhecimentos em **Java**, desde a lógica de programação e fundamentos de desenvolvimento backend até projetos práticos.
 
 ---
