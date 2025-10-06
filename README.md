@@ -27,7 +27,7 @@
 🎯 **Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python - DIO**  
 Bootcamp com foco nos fundamentos da Ciência de Dados, utilizando Python. Inclui modelagem de dados, conceitos básicos de aprendizado de máquina e uso de comandos DML e DDL para manipulação e consulta de dados. Contém cursos teóricos, desafios práticos e projetos aplicados.
 
-Repositório dedicado: [ciencia-dados-python-bootcamp]()
+Repositório dedicado: [ciencia-dados-python-bootcamp](https://github.com/camilistarosky/ciencia-dados-python-bootcamp)
 
 ---
 
