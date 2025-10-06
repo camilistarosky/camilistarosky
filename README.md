@@ -60,7 +60,7 @@ Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
 
 ### 📫 Onde me encontrar:
 
-- ✉️ E-mail: camili.starosky@gmail.com
+- ✉️ E-mail: staroskycamili@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/camilistarosky/)
 - 📁 Veja meus repositórios de estudos em lógica de programação, Java e Ciência da Computação aqui no perfil!
 
