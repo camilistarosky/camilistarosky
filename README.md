@@ -26,6 +26,7 @@
 
 🎯 **Formação SQL Database Specialist - DIO**  
 Atualmente desenvolvendo habilidades em bancos de dados. Aprendendo a modelar bases de dados alinhadas às necessidades de negócio, utilizando comandos DML (Data Manipulation Language) e DDL (Data Definition Language) para consulta e manipulação de dados. Explorando boas práticas em projetos, com foco em regras formais, recuperação e controle de concorrência.
+
 Repositório dedicado: [formacao-sql-database]()
 
 ---
