@@ -1,8 +1,8 @@
 ### Hello World! Eu sou a Camili 👋
 
-💻 Estudante apaixonada por tecnologia, aprendizado constante e organização.  
+💻 Estudante apaixonada por tecnologia, dados e organização.  
 🎓 Curso **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
-☕ Atualmente, estou aprofundando meus conhecimentos em **Java**, desde a lógica de programação e fundamentos de desenvolvimento backend até projetos práticos.
+☕ Atualmente, estou aprofundando meus conhecimentos em **SQL** e **Python**.
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### 📚 Estudando agora
 
-🎯 **Formação Java Developer - DIO**  
-Estudando Java moderno, orientação a objetos, estrutura de dados e projetos práticos.  
-Repositório dedicado: [formacao-java-developer](https://github.com/camilistarosky/formacao-java-developer)
+🎯 **Formação SQL Database Specialist - DIO**  
+Atualmente desenvolvendo habilidades em bancos de dados. Aprendendo a modelar bases de dados alinhadas às necessidades de negócio, utilizando comandos DML (Data Manipulation Language) e DDL (Data Definition Language) para consulta e manipulação de dados. Explorando boas práticas em projetos, com foco em regras formais, recuperação e controle de concorrência.
+Repositório dedicado: [formacao-sql-database]()
 
 ---
 
