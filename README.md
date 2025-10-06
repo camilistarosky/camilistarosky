@@ -24,10 +24,10 @@
 
 ### 📚 Estudando agora
 
-🎯 **Formação SQL Database Specialist - DIO**  
-Atualmente desenvolvendo habilidades em bancos de dados. Aprendendo a modelar bases de dados alinhadas às necessidades de negócio, utilizando comandos DML (Data Manipulation Language) e DDL (Data Definition Language) para consulta e manipulação de dados. Explorando boas práticas em projetos, com foco em regras formais, recuperação e controle de concorrência.
+🎯 **Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python - DIO**  
+Bootcamp com foco nos fundamentos da Ciência de Dados, utilizando Python. Inclui modelagem de dados, conceitos básicos de aprendizado de máquina e uso de comandos DML e DDL para manipulação e consulta de dados. Contém cursos teóricos, desafios práticos e projetos aplicados.
 
-Repositório dedicado: [formacao-sql-database]()
+Repositório dedicado: [ciencia-dados-python-bootcamp]()
 
 ---
 
