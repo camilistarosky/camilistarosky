@@ -1,7 +1,7 @@
 ### Hello World! Eu sou a Camili 👋
 
 💻 Estudante apaixonada por tecnologia, dados e organização.  
-🎓 Curso **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
+🎓 Formada em **Técnico em Informática pelo IFSC** e cursando graduação de **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
 ☕ Atualmente, estou aprofundando meus conhecimentos em **SQL** e **Python**.
 
 ---
