@@ -59,11 +59,7 @@ Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=tokyonight&count_private=true&hide=prs"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilistarosky)](https://github.com/camilistarosky/github-readme-stats)
 ---
 
 ### 📫 Onde me encontrar:
