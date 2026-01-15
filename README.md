@@ -56,16 +56,15 @@ Repositório: [pdm-ifsc](https://github.com/camilistarosky/pdm-ifsc)
 Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
 
 ---
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=camilistarosky&theme=tokyonight)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&theme=dark)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=camilistarosky&theme=dark)
 
 ### 📫 Onde me encontrar:
 
