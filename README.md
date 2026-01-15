@@ -29,7 +29,7 @@
 🎯 **Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python - DIO**  
 Bootcamp com foco nos fundamentos da Ciência de Dados, utilizando Python. Inclui modelagem de dados, conceitos básicos de aprendizado de máquina e uso de comandos DML e DDL para manipulação e consulta de dados. Contém cursos teóricos, desafios práticos e projetos aplicados.
 
-Repositório dedicado: [ciencia-dados-python-bootcamp](https://github.com/camilistarosky/ciencia-dados-python-bootcamp)
+📂 Repositório: [ciencia-dados-python-bootcamp](https://github.com/camilistarosky/ciencia-dados-python-bootcamp)
 
 📈 **Economia Computacional | Aplicações em Economia, Estatística e Finanças**  
 Ferramenta em desenvolvimento voltada para apoiar os estudos de **Matemática Financeira**, **Estatística** e **Macroeconomia**, com foco em aplicações práticas na graduação em Ciências Econômicas.  
@@ -56,6 +56,16 @@ Repositório: [pdm-ifsc](https://github.com/camilistarosky/pdm-ifsc)
 Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=dark)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&theme=dark)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=camilistarosky&theme=dark)
 
 ### 📫 Onde me encontrar:
 
