@@ -2,7 +2,7 @@
 
 💻 Estudante apaixonada por tecnologia, dados e organização.  
 🎓 Formada em **Técnico em Informática pelo IFSC** e cursando graduação de **Ciências Econômicas pela UFSC**, com foco em **dados, estatística e modelagem aplicada**.  
-☕ Atualmente, estou aprofundando meus conhecimentos em **SQL** e **Python**.
+☕ Atualmente, estou aprofundando meus conhecimentos em **Java**, **Python** e **SQL**.
 
 ---
 
