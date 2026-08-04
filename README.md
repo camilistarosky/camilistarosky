@@ -24,21 +24,6 @@
 
 ---
 
-### 📚 Estudando agora
-
-🎯 **Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python - DIO**  
-Bootcamp com foco nos fundamentos da Ciência de Dados, utilizando Python. Inclui modelagem de dados, conceitos básicos de aprendizado de máquina e uso de comandos DML e DDL para manipulação e consulta de dados. Contém cursos teóricos, desafios práticos e projetos aplicados.
-
-📂 Repositório: [ciencia-dados-python-bootcamp](https://github.com/camilistarosky/ciencia-dados-python-bootcamp)
-
-📈 **Economia Computacional | Aplicações em Economia, Estatística e Finanças**  
-Ferramenta em desenvolvimento voltada para apoiar os estudos de **Matemática Financeira**, **Estatística** e **Macroeconomia**, com foco em aplicações práticas na graduação em Ciências Econômicas.  
-Inclui scripts e automações para resolução de exercícios, simulações e análises econômicas.
-
-📂 Repositório: [economia](https://github.com/camilistarosky/economia)
-
----
-
 ### 🧪 Formação Técnica em Informática - IFSC
 
 Formada pelo Instituto Federal de Santa Catarina (IFSC), com foco em desenvolvimento e fundamentos da computação.
@@ -56,21 +41,12 @@ Repositório: [pdm-ifsc](https://github.com/camilistarosky/pdm-ifsc)
 Repositório: [projeto-final-ifsc](https://github.com/santtoseduarda/IMPECC)
 
 ---
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilistarosky&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilistarosky&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=camilistarosky&theme=tokyonight)
-
----
 
 ### 📫 Onde me encontrar:
 
-- ✉️ E-mail: staroskycamili@gmail.com
+- ✉️ E-mail: camili.naara@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/camilistarosky/)
-- 📁 Veja meus repositórios de estudos em lógica de programação, Java e Ciência da Computação aqui no perfil!
+- 📁 Veja meus repositórios de estudos em lógica de programação, Java e outros aqui no perfil!
 
 ---
 
